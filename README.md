@@ -1,6 +1,6 @@
 
 
-# 🚀 Generative AI Projects – Learn by Building
+# 🚀 Generative AI Projects – Aparna Sharma
 
 This repository is a **hands-on, beginner-friendly guide to building Generative AI products and AI agents**.
 
@@ -213,67 +213,3 @@ An AI agent that helps with:
 4. Run the project
 
 5. Modify prompts and logic → **learn by experimenting**
-
----
-
-## 🌱 Learning Path (Recommended)
-
-If you're a beginner, follow this order:
-
-1. Travel Agent (single agent)
-2. Customer Support Agent
-3. Market Research Agent
-4. Competitor Analysis Agent
-5. News TL;DR Agent
-6. Agentic RAG
-7. Multi-Agent Travel Agent (MCP)
-8. Research Team AutoGen (Multi-Agent Group Chat)
-9. n8n Agents
-
----
-
-## 👩‍💻 About the Author
-
-Built by **Sri Laxmi**
-AI Product Manager with **8+ years of experience**
-
-* Built & scaled **Generative AI products** to **4M+ users**
-* Creator of **Product Management Interview Expert GPT** (15,000+ users)
-* Passionate about **helping people upskill in GenAI**
-* Building practical, real-world AI projects for learners
-
-🌐 AI Learning Hub: [https://ai-knowledge-management-plum.vercel.app/](https://ai-knowledge-management-plum.vercel.app/)
-
----
-
-## ⭐ Contributing & Support
-
-If this repo helps you:
-
-* ⭐ Star the repo
-* 🍴 Fork it
-* 🧠 Experiment and learn
-
-Pull requests and improvements are welcome.
-
----
-
-## 🚀 Final Note
-
-This repo is intentionally **practical, simple, and beginner-focused**.
-
-> The goal is not to impress —
-> **The goal is to help you build real GenAI products confidently.**
-
-Happy building! 🤖✨
-
----
-
-If you want, next I can:
-
-* Add **mini READMEs inside each agent folder**
-* Create a **“GenAI for Product Managers” learning path**
-* Optimize this README for **GitHub stars & discoverability**
-
-Just tell me 👍
-
