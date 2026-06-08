@@ -108,7 +108,7 @@ The application uses **5 specialized AI agents** working together:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/SriLaxmi1993/travel-agent.git
+git clone https://github.com/aparna66610/travel-agent.git
 cd travel-agent
 ```
 
@@ -372,11 +372,11 @@ This project is part of the Generative AI Projects repository.
 
 ## 👤 Author
 
-**Sri Laxmi** - [@SriLaxmi1993](https://github.com/SriLaxmi1993)
+**Aparna** - [@aparna66610](https://github.com/aparna66610)
 
 AI Product Manager passionate about Generative AI, building Gen AI products.
 
-- 🌐 GitHub: [github.com/SriLaxmi1993](https://github.com/SriLaxmi1993)
+- 🌐 GitHub: [github.com/aparna66610](https://github.com/aparna66610)
 - 💼 LinkedIn: [in/sri-laxmi](https://www.linkedin.com/in/sri-laxmi)
 - 📺 YouTube: [@sri_laxmi](https://youtube.com/@sri_laxmi)
 

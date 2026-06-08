@@ -632,7 +632,7 @@ for q in st.session_state.questions:
 
 **1. Clone the Repository**
 ```bash
-git clone https://github.com/SriLaxmi1993/Generative-AI-Projects.git
+git clone https://github.com/aparna66610/Generative-AI-Projects.git
 cd Generative-AI-Projects/agents/Market_Research_agent
 ```
 
@@ -774,7 +774,7 @@ Building an AI research agent teaches us:
 
 ### Resources
 
-- **Full Code**: [GitHub Repository](https://github.com/SriLaxmi1993/Generative-AI-Projects/tree/main/agents/Market_Research_agent)
+- **Full Code**: [GitHub Repository](https://github.com/aparna66610/Generative-AI-Projects/tree/main/agents/Market_Research_agent)
 - **Agno Documentation**: [Agno Framework Docs](https://agno.com/docs)
 - **Streamlit Docs**: [Streamlit Documentation](https://docs.streamlit.io)
 - **OpenAI API**: [OpenAI Platform](https://platform.openai.com)
@@ -814,5 +814,5 @@ A: Implement retry logic with exponential backoff. Consider caching responses.
 
 ---
 
-*This tutorial was created to help beginners understand AI agent development. For the complete source code, visit the [GitHub repository](https://github.com/SriLaxmi1993/Generative-AI-Projects/tree/main/agents/Market_Research_agent).*
+*This tutorial was created to help beginners understand AI agent development. For the complete source code, visit the [GitHub repository](https://github.com/aparna66610/Generative-AI-Projects/tree/main/agents/Market_Research_agent).*
 

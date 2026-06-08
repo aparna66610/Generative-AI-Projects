@@ -203,7 +203,7 @@ An AI agent that helps with:
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/SriLaxmi1993/Generative-AI-Projects.git
+   git clone https://github.com/aparna66610/Generative-AI-Projects.git
    ```
 
 2. Pick **one folder** (don’t try everything at once)

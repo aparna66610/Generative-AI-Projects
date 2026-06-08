@@ -20,7 +20,7 @@ import os
 
 # Debug logging helper (writes NDJSON lines to a fixed path)
 def debug_log(session_id, run_id, hypothesis_id, location, message, data):
-    log_path = "/Users/srilaxmich/Desktop/Generative-AI-Projects/.cursor/debug.log"
+    log_path = "/Users/aparna/Desktop/Generative-AI-Projects/.cursor/debug.log"
     try:
         os.makedirs(os.path.dirname(log_path), exist_ok=True)
         with open(log_path, "a") as f:

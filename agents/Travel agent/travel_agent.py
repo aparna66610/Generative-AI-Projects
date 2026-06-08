@@ -14,7 +14,7 @@ from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor, TimeoutError as FutureTimeoutError
 
 # #region debug logging
-LOG_PATH = "/Users/srilaxmich/Desktop/Generative-AI-Projects/.cursor/debug.log"
+LOG_PATH = "/Users/aparna/Desktop/Generative-AI-Projects/.cursor/debug.log"
 def debug_log(location, message, data=None, hypothesis_id=None, session_id="debug-session", run_id="run1"):
     try:
         log_entry = {
